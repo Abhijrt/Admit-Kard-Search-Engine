@@ -1,18 +1,9 @@
-# Basic-Node-JS-Configuration-for-API
+# Search Engine API
 
-# Basic Modules that are using on the project
-npm install express
-
-npm install nodemon
-
-npm install ejs
-
-npm install mongoose
-
-TO run the project
-npm start
-
-#if you have installed all the modules the jush run two command
-#npm install
-
-#npm rebuild node-sass
+# How to Setup API in local Stystem?
+    1.First clone this repo or download zip .
+    2.Install Nodejs if not installed in your system.
+    3.Run the command to install all tha packages.
+    >>npm install
+    4.Run the project by command.
+    >>npm start
