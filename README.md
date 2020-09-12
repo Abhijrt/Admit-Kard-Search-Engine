@@ -27,10 +27,10 @@
 
 
 ## Search Question 
-![Search Question](./Search-Engine-React/src/static/images/search.png)
+![Search Question](./Search-Engine-React/src/static/images/search1.png)
 
 ## Search Result 
-![Search Result](./Search-Engine-React/src/static/images/search1.png)
+![Search Result](./Search-Engine-React/src/static/images/search.png)
 
 
 
