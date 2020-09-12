@@ -16,7 +16,7 @@
  
 
 ## Welcome page 
-![WelCome Page](./Search-Engine_react/src/static/images/welcome.png)
+![WelCome Page](./Search-Engine-React/src/static/images/welcome.png)
 
    
    
