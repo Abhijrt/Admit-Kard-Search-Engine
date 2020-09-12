@@ -12,8 +12,11 @@
      >>npm install
     5.run the project by commmand
     >> npm start
-   
    ##This sequence is for both the react and api for this project
-   
+ 
+
+## Welcome page 
+![WelCome Page](./Search-Engine_react/src/static/images/welcome.png)
+
    
    
